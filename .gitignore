@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/EmployeeManagement/v15
+/EmployeeManagement/obj/Debug
+/EmployeeManagement/Properties
