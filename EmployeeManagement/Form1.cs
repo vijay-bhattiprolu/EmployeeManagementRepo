@@ -19,6 +19,19 @@ namespace EmployeeManagement
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("hi");
+
+        }
+    }
+
+    private void button1_Click(object sender, EventArgs e)
+        {
             //show form
 
         }
