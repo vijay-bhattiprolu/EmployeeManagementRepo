@@ -21,7 +21,7 @@ namespace EmployeeManagement
         private void button1_Click(object sender, EventArgs e)
         {
             //show form
-            MessageBox.Show("vijay");
+            MessageBox.Show("vijay1");
         }
 
         private void button2_Click(object sender, EventArgs e)
