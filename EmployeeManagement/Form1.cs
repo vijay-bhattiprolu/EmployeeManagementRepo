@@ -20,12 +20,13 @@ namespace EmployeeManagement
         private void button1_Click(object sender, EventArgs e)
         {
             //show form
+            MessageBox.Show("vijay");
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi welcome to git");
+            MessageBox.Show("Hi welcome to git EmployeeManagement");
         }
     }
 }
