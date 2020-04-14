@@ -14,14 +14,14 @@ namespace EmployeeManagement
     {
         public Form1()
         {
+            //Getts called on initialization of the form
             InitializeComponent();
-        }
+                    }
 
         private void button1_Click(object sender, EventArgs e)
         {
             //show form
             MessageBox.Show("vijay");
-
         }
 
         private void button2_Click(object sender, EventArgs e)
